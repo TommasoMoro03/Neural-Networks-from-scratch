@@ -1,2 +1,2 @@
-# Neural-Networks-from-scratch
-Implementation of a simple neural network with all the mathematics behind it
+# Neural Networks from scratch
+Creation of a neural network which is able to recognize the digits from the MNIST database. I'll show and explain in a simple way the mathematics beyond Neural Networks.
